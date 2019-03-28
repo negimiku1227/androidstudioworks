@@ -20,4 +20,10 @@ public class MainActivity extends AppCompatActivity {
         sentence = findViewById(R.id.textView);
         sentence.setTextSize(++size);
     }
+
+    public void smaller(View v){
+        TextView sentence;
+        sentence = findViewById(R.id.textView);
+        sentence.setTextSize(--size);
+    }
 }

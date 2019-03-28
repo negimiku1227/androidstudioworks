@@ -3,4 +3,6 @@
     <string name="app_name">HW1</string>
     <string name="text_bigbutton">變大</string>
     <string name="text_words">這是句子。</string>
+    <string name="text_smallbutton">變小</string>
+    <string name="text_photo">就是蔥花</string>
 </resources>
